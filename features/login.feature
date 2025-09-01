@@ -11,3 +11,4 @@ Feature: The Internet Guinea Pig Website
       | tomsmith | SuperSecretPassword! | You logged into a secure area! |
       | foobar   | barfoo               | Your username is invalid!      |
 
+
